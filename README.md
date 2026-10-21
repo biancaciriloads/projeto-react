@@ -1,4 +1,4 @@
-# React Lab
+# Aula React
 
 Interface didática simples com seis componentes independentes, cada um apresentando um conceito fundamental do React:
 
