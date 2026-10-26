@@ -112,11 +112,7 @@ const dados = await resposta.json();`}</code></pre>
         disponibilidade da API pública.
       </p>
 
-      <h3>Desafio</h3>
-      <p>
-        Adicione um campo de pesquisa para filtrar as publicações
-        carregadas pelo título.
-      </p>
+
     </article>
   );
 }

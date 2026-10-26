@@ -62,10 +62,7 @@ function Contador() {
         </button>
       </div>
 
-      <div className="note">
-        <strong>Desafio:</strong> adicione um botão para
-        diminuir o contador sem permitir valores negativos.
-      </div>
+
     </article>
   );
 }

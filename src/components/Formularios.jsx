@@ -99,11 +99,7 @@ export default function Formularios() {
         os dados recebidos.
       </p>
 
-      <h3>Desafio</h3>
-      <p>
-        Adicione um campo de senha e impeça o envio quando
-        o nome tiver menos de três caracteres.
-      </p>
+
     </article>
   );
 }

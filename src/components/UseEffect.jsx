@@ -75,12 +75,7 @@ export default function UseEffect() {
         executar um ciclo adicional de configuração e limpeza.
       </p>
 
-      <h3>Desafio</h3>
-      <p>
-        Crie um contador de segundos e um botão para iniciar
-        e pausar o temporizador, limpando o intervalo quando
-        necessário.
-      </p>
+
     </article>
   );
 }

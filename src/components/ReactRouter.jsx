@@ -93,11 +93,7 @@ const { id } = useParams();`}</code></pre>
         configure react-router-dom.
       </p>
 
-      <h3>Desafio</h3>
-      <p>
-        Configure uma rota para cada página do React Lab
-        e crie uma página para caminhos inexistentes.
-      </p>
+
     </article>
   );
 }
